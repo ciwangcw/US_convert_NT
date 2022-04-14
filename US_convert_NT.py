@@ -18,7 +18,7 @@ fontSize=20                                 # 控制字型大小變數
 建立視窗及設定變數
 """
 win = tk.Tk()                               # 建立視窗
-win.wm_title("美金轉台幣")                   # 視窗標題
+win.wm_title("美金轉台幣 by CiWang")                   # 視窗標題
 w=600                                       # 控制視窗寬的變數
 h=300                                       # 控制視窗高的變數
 win.maxsize(w,h)                            # 最大視窗
