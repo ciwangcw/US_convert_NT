@@ -3,6 +3,7 @@ __  file__: day09_US_convert_NT.py
 __ brief__: practice
 __author__: WANG, CI 王奇
 __  date__: 2022  04  07
+__update__: 2022  04  14
 """
 import tkinter as tk                        # 引用GUI函式庫tkinter,以下簡稱tk
 
